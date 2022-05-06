@@ -1,7 +1,7 @@
 # MotorCAD_Maxwell_ACLoss
 Requirements: PyAEDT, Ansys MotorCAD, Ansys Maxwell (Ansys Electronic Desktop)
 # Introduction
-This is an example for creating individual conductors in Ansys Maxwell using data from Ansys MotorCAD. This example is licensed under the MIT License.
+This is an example for creating individual conductors in Ansys Maxwell using data from Ansys MotorCAD. This example is licensed under the https://github.com/akeel-a/MotorCAD_Maxwell_ACLoss/blob/master/LICENSE.
 # Setup
 ## Preparing the MotorCAD file:
 ![image](https://user-images.githubusercontent.com/104905123/167090497-4677cb53-60e8-4a76-9a58-54b2bff2dbf4.png)
