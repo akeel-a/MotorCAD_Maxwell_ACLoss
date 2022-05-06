@@ -25,3 +25,5 @@ Run the .vbs script created from MotorCAD
     Create_exc = True
     Create_wdg = False
     Group_turn = True
+    
+    Run Create_Conductors_MCAD_MXWL.py
