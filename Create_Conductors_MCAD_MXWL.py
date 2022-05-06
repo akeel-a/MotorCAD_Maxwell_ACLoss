@@ -9,6 +9,7 @@ from pyaedt import Maxwell2d
 #import pyaedt
 import numpy as np
 
+
 def main():
 
     ################Settings##################
@@ -116,7 +117,6 @@ def main():
 
         m2d.modeler.rotate(circles_id, "Z", (-angle / num_slots))
 
-
         y = x
         if str(x - 1) in data_return:
             m2d.modeler.mirror(circles_id, [0, 0, 0],[0, -100, 0])
@@ -147,6 +147,8 @@ def main():
 
     m2d.release_desktop(close_projects=False, close_desktop=False)
     pass
+
+
 if __name__ == "__main__":
      main()
 
