@@ -27,3 +27,7 @@ Run the .vbs script created from MotorCAD
     Group_turn = True
     
     Run Create_Conductors_MCAD_MXWL.py
+
+
+https://user-images.githubusercontent.com/104905123/172580288-11f86f7e-42d7-4764-8d41-cbe105aa9fa2.mp4
+
